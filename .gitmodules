@@ -4,3 +4,9 @@
 [submodule "arquitecturas-distribuidas"]
 	path = arquitecturas-distribuidas
 	url = https://github.com/Nano-Nathan/arquitecturas-distribuidas.git
+[submodule "proyecto/CEI/CEI_UNC_Backend"]
+	path = proyecto/CEI/CEI_UNC_Backend
+	url = https://github.com/Hash-UNC/CEI_UNC_Backend.git
+[submodule "proyecto/CEI/CEI_UNC_Frontend"]
+	path = proyecto/CEI/CEI_UNC_Frontend
+	url = https://github.com/Hash-UNC/CEI_UNC_Frontend.git
