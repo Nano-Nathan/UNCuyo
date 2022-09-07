@@ -1,3 +1,6 @@
 [submodule "ia-uncuyo-2021"]
 	path = ia-uncuyo-2021
 	url = https://github.com/Nano-Nathan/ia-uncuyo-2021.git
+[submodule "arquitecturas-distribuidas"]
+	path = arquitecturas-distribuidas
+	url = https://github.com/Nano-Nathan/arquitecturas-distribuidas.git
