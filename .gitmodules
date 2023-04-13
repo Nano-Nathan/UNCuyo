@@ -15,7 +15,7 @@
 	url = https://github.com/Nano-Nathan/ubae.git
 [submodule "data-base"]
 	path = data-base
-	url= https://github.com/Nano-Nathan/data-base.git
+	url = https://github.com/Nano-Nathan/data-base.git
 [submodule "programacion-paralela-distribuida"]
 	path = programacion-paralela-distribuida
 	url = https://github.com/Nano-Nathan/programacion-paralela-distribuida.git
