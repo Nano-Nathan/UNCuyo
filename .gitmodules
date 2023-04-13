@@ -18,4 +18,4 @@
 	url= https://github.com/Nano-Nathan/data-base.git
 [submodule "programacion-paralela-distribuida"]
 	path = programacion-paralela-distribuida
-	url= https://github.com/Nano-Nathan/programacion-paralela-distribuida.git
+	url = https://github.com/Nano-Nathan/programacion-paralela-distribuida.git
