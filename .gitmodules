@@ -19,3 +19,6 @@
 [submodule "programacion-paralela-distribuida"]
 	path = programacion-paralela-distribuida
 	url = https://github.com/Nano-Nathan/programacion-paralela-distribuida.git
+[submodule "sistemas-distribuidos"]
+	path = sistemas-distribuidos
+	url = git@github.com:Nano-Nathan/sistemas-distribuidos.git
