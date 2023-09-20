@@ -22,3 +22,6 @@
 [submodule "sistemas-distribuidos"]
 	path = sistemas-distribuidos
 	url = git@github.com:Nano-Nathan/sistemas-distribuidos.git
+[submodule "ia2"]
+	path = ia2
+	url = git@github.com:Nano-Nathan/ia2.git
